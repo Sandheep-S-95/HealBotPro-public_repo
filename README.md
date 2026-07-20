@@ -33,7 +33,7 @@ Patient → Chat UI (IntakeChat)
 ### 1. Clone and set up backend
 
 ```bash
-git clone <your-repo>
+git clone <https://github.com/Sandheep-S-95/HealBotPro-public_repo>
 cd healbot-pro
 
 # Create virtual environment
