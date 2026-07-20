@@ -75,16 +75,16 @@ npm run dev
 
 Copy `.env.example` → `.env` in the **project root** and fill in:
 
-| Variable | Where to get it | Free? |
+| Variable | Where to get it |
 |---|---|---|
-| `GROQ_API_KEY` | [console.groq.com](https://console.groq.com) | ✅ Free forever |
-| `PINECONE_API_KEY` | [app.pinecone.io](https://app.pinecone.io) | ✅ Free starter tier |
-| `PINECONE_INDEX` | Your index name (dimension=384, cosine) | — |
-| `NEO4J_URI` | [console.neo4j.io](https://console.neo4j.io) (AuraDB Free) | ✅ Free 1 instance |
-| `NEO4J_USER` | AuraDB dashboard | — |
-| `NEO4J_PASSWORD` | AuraDB dashboard | — |
-| `DATABASE_URL` | Leave as default for SQLite | ✅ Built-in |
-| `PORT` | Defaults to `8002` | — |
+| `GROQ_API_KEY` | [console.groq.com](https://console.groq.com) |
+| `PINECONE_API_KEY` | [app.pinecone.io](https://app.pinecone.io) |
+| `PINECONE_INDEX` | Your index name (dimension=384, cosine) | 
+| `NEO4J_URI` | [console.neo4j.io](https://console.neo4j.io) (AuraDB Free) | 
+| `NEO4J_USER` | AuraDB dashboard |
+| `NEO4J_PASSWORD` | AuraDB dashboard |
+| `DATABASE_URL` | Leave as default for SQLite |
+| `PORT` | Defaults to `8002` |
 
 ---
 
