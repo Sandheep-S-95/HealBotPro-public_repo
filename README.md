@@ -5,7 +5,7 @@
 > **What changed from v1:** The static textarea has been replaced with a multi-turn
 > conversational intake assistant (MediAssist) that asks clarifying questions before
 > triggering the diagnostic pipeline. Everything else — Neo4j, Pinecone, Groq — is
-> preserved and improved.
+> preserved.
 
 ---
 
